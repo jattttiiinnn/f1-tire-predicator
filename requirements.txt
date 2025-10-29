@@ -1,0 +1,6 @@
+google-generativeai
+fastf1
+streamlit
+plotly
+pandas
+python-dotenv
