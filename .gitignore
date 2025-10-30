@@ -12,11 +12,6 @@ venv/
 # Environment variables
 .env
 
-# Data caches or temp files
-data/cache/
-*.csv
-*.json
-*.log
 
 # Jupyter notebooks checkpoints
 .ipynb_checkpoints/
